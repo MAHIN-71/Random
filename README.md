@@ -1,6 +1,6 @@
-. git clone https://github.com/MAHIN-71/Random
+git clone https://github.com/MAHIN-71/Random
 
 
-.cd Random
+cd Random
 
-.python2 free.py
+python2 free.py
